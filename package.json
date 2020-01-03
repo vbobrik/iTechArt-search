@@ -1,0 +1,24 @@
+{
+  "name": "selenium_1_task",
+  "version": "1.0.0",
+  "description": "iTechArt-search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbobrik/iTechArt-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbobrik/iTechArt-search/issues"
+  },
+  "homepage": "https://github.com/vbobrik/iTechArt-search#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
